@@ -1,5 +1,3 @@
-# RxJS Challenge
-A set of little RxJS puzzles to practice your Observable skills by [Alex](https://twitter.com/Waterplea) and [Roman](https://twitter.com/marsibarsi).
 
 ## Day 01
 Create an Observable to track focus in a section of the page.
@@ -169,3 +167,6 @@ Recreate classic Material Design ripple effect.
 - [Template](https://stackblitz.com/edit/rxjs-challenge-20)
 - [Solution](https://stackblitz.com/edit/rxjs-challenge-20-solution)
 - [Article](https://medium.com/angularwave/rxjs-challenge-20-ripple-68b62a77fba8?sk=f31d29e8d8c5bd3b311dc59d64ac6217)
+
+# RxJS Challenge
+A set of little RxJS puzzles to practice your Observable skills by [Alex](https://twitter.com/Waterplea) and [Roman](https://twitter.com/marsibarsi).
